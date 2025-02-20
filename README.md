@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, I'm Miguel Araújo De Souza</h1>
 <h3 align="center">Just regular every day normal developer</h3>
 
-- 🔭 I’m currently working on **PicPay Bank**
+- 😎 I’m a Back-End Developer, cursing Data Analysis in high school
+  
+- 🔭 I’m working in --> **PicPay Bank**
 
-- 💬 Ask me about **Gym 🦾**
+- 💬 Ask me about --> **Gym 🦾**
 
-- 📫 How to reach me **miguel0araujo0souza@gmail.com**  
+- 📫 How to reach me --> **miguel0araujo0souza@gmail.com**  
 
-- ⚡ Fun fact **I speend all my salary in my PC**
+- ⚡ Fun fact --> **I speend all my salary in my PC**
 
-- 🌱 I’m currently learning **AI's, Machine learning, API's, Big Data**
+- 🌱 I’m currently learning about --> **AI's - PowerBi - Machine Learning - Big Data - MongoDB**
+
+- 💻 I Work with --> **SpringBoot - Java** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

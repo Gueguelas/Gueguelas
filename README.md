@@ -60,4 +60,3 @@
 
 ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=miguelaraujodesouza&show_icons=true&hide_border=true&count_private=true&theme=jolly)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelaraujodesouza&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact) 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MiguelAraujoDeSouza&show_icons=true&locale=en&layout=compact" alt="gueguelas" /></p>

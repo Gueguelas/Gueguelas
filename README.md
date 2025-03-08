@@ -7,7 +7,7 @@
 
 - 💬 Ask me about --> **Gym 🦾**
 
-- 📫 How to reach me --> **miguel0araujo0souza@gmail.com**  
+- 📫 How to reach me --> **miguel.araujo.souza.08@gmail.com**  
 
 - ⚡ Fun fact --> **I speend all my salary in my PC**
 

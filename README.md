@@ -15,7 +15,7 @@
 
 - 💻 I Work with --> **SpringBoot - Java** 
 
-<h3 align="left">Connect with me:</h3>https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg
+<h3 align="left">Connect with me:
 <p align="left">
 <br>
 <a href="https://instagram.com/gueguelas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gueguelas" height="30" width="40" /></a>

@@ -2,7 +2,7 @@
 <h3 align="center">Just a chill guy 😴</h3>
 
 
-<img height="400" align="right" src="https://i.pinimg.com/736x/5d/0e/78/5d0e784f6ae3577c971b0a930cde4011.jpg" />
+<img height="350" align="right" src="https://i.pinimg.com/736x/5d/0e/78/5d0e784f6ae3577c971b0a930cde4011.jpg" />
 
 
 ---
@@ -49,8 +49,8 @@
 <td align="center"><img src="https://skillicons.dev/icons?i=java,py" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40"/></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=aws,git,github,docker,kubernetes,linux" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="40"/></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40"/></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=spring,express,fastapi,nestjs,nodejs,flask,azure" height="40"/><img src="https://cdn.simpleicons.org/numpy/013243" height="40"/><img src="https://cdn.simpleicons.org/pandas/150458" height="40"/></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40"/><img src="https://skillicons.dev/icons?i=postman,figma" height="40"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,flask" height="40"/><img src="https://cdn.simpleicons.org/pandas/150458" height="40"/> <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" height="40"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postman,figma" height="40"/><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GameMakerStudio.svg" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" height="40"/></td>
 </tr>
 </table>
 

@@ -2,7 +2,7 @@
 <h3 align="center">Just a chill guy 😴</h3>
 
 
-<img height="350" align="right" src="https://i.pinimg.com/736x/5d/0e/78/5d0e784f6ae3577c971b0a930cde4011.jpg" />
+<img height="340" align="right" src="https://i.pinimg.com/736x/5d/0e/78/5d0e784f6ae3577c971b0a930cde4011.jpg" />
 
 
 ---

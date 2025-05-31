@@ -37,7 +37,6 @@
   
 <table>
 <tr>
-<td align="center"><b>Front-end</b></td>
 <td align="center"><b>Back-end</b></td>
 <td align="center"><b>DevOps</b></td>
 <td align="center"><b>Databases</b></td>
@@ -45,11 +44,14 @@
 <td align="center"><b>Tools</b></td>
 </tr>
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=html,css,js" height="40"/></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=java,py" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40"/></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=aws,git,github,docker,kubernetes,linux" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="40"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=java,py" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" height="40"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=aws,git,docker,kubernetes,linux" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="40"/></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40"/></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,flask" height="40"/><img src="https://cdn.simpleicons.org/pandas/150458" height="40"/> <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" height="40"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,flask" height="40"/><img src="https://cdn.simpleicons.org/pandas/150458" height="40"/> <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/800px-Scikit_learn_logo_small.svg.png" height="40"/>
+<img src="https://www.cienciaedados.com/wp-content/uploads/2023/08/pyspark.jpg" height="40"/>
+</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=postman,figma" height="40"/><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GameMakerStudio.svg" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" height="40"/></td>
 </tr>
 </table>

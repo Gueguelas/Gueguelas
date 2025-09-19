@@ -2,17 +2,14 @@
 <h3 align="center">Just a chill guy 😴</h3>
 
 
-<img height="340" align="right" src="https://i.pinimg.com/736x/5d/0e/78/5d0e784f6ae3577c971b0a930cde4011.jpg" />
-
-
 ---
 
-- 😎 I’m a Back-End Developer, currently studying Data Analysis in high school  
-- 🔭 I’m working at **PicPay Bank**  
-- 💬 Ask me about: **Gym 🦾**  
-- ⚡ Fun fact: **I spend all my salary on my PC 😅**  
-- 🌱 Learning: **AI, Power BI, Machine Learning, NoSQL, Data Science, RPA**  
-- 💻 I work with: **Spring Boot, Java**
+#### - 😎 I’m a Back-End Developer, currently studying Data Analysis in high school  
+#### - 🔭 I’m working at **PicPay Bank**  
+#### - 💬 Ask me about: **Gym 🦾**  
+#### - ⚡ Fun fact: **I spend all my salary on my PC 😅**  
+#### - 🌱 Learning: **AI, Power BI, Machine Learning, NoSQL, Data Science, RPA**  
+#### - 💻 I work with: **Spring Boot, Java**
 
 ---
 

@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Miguel Araújo De Souza</h1>
 <h3 align="center">Just a chill guy 😴</h3>
 
-
 ---
+  <a href="">
+    <img height="220" align="right" src="https://24.media.tumblr.com/c57925e54b1640ceb8c9a121ef24987d/tumblr_mlhc52tk7P1qh0vhjo1_500.gif"/>
+  </a>
+
 
 #### - 😎 I’m a Back-End Developer, currently studying Data Analysis in high school  
 #### - 🔭 I’m working at **PicPay Bank**  

@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Miguel Araújo De Souza</h1>
-<h3 align="center">Just a chill guy 😴</h3>
-
----
   <a href="">
-    <img height="220" align="right" src="https://24.media.tumblr.com/c57925e54b1640ceb8c9a121ef24987d/tumblr_mlhc52tk7P1qh0vhjo1_500.gif"/>
+    <img height="340" align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
   </a>
 
+  
 
 #### - 😎 I’m a Back-End Developer, currently studying Data Analysis in high school  
 #### - 🔭 I’m working at **PicPay Bank**  
@@ -14,7 +12,7 @@
 #### - 🌱 Learning: **AI, Power BI, Machine Learning, NoSQL, Data Science, RPA**  
 #### - 💻 I work with: **Spring Boot, Java**
 
----
+
 
 ### 🌐 Connect with me
 
@@ -59,17 +57,17 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MiguelAraujoDeSouza&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAraujoDeSouza&layout=compact&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gueguelas&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gueguelas&layout=compact&theme=radical" height="150" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MiguelAraujoDeSouza&theme=radical&hide_border=false" height="150" />
-  <img src="https://github-profile-trophy.vercel.app/?username=MiguelAraujoDeSouza&theme=dracula&margin-w=10&margin-h=10" height="150" />
+  <img src="https://streak-stats.demolab.com?user=Gueguelasa&theme=radical&hide_border=false" height="150" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Gueguelas&theme=dracula&margin-w=10&margin-h=10" height="150" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MiguelAraujoDeSouza&theme=redical&area=true" height="300" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gueguelas&theme=redical&area=true" height="300" />
 </div>
 
 ---

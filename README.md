@@ -26,7 +26,7 @@
 
 ---
 
-## 🛠️ Skills
+##  Skills
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 2rem;">
   
 <table>
@@ -41,8 +41,8 @@
 <td align="center"><img src="https://skillicons.dev/icons?i=java,py" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" height="40"/></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=aws,git,docker,kubernetes,linux" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="40"/></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40"/></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,flask" height="40"/><img src="https://cdn.simpleicons.org/pandas/150458" height="40"/> <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" height="40"/>
+<td align="center"><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmOZuTqPb6LhxyTyEUio8xxNxspa0gm-NncQ&s" height="40"/> </td>
+<td align="center"><img src="https://skillicons.dev/icons?i=spring,nodejs,flask" height="40"/><img src="https://cdn.simpleicons.org/pandas/150458" height="40"/> <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/800px-Scikit_learn_logo_small.svg.png" height="40"/>
 <img src="https://www.cienciaedados.com/wp-content/uploads/2023/08/pyspark.jpg" height="40"/>
 </td>
@@ -54,7 +54,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gueguelas&theme=redical&area=true" height="300" />
@@ -62,7 +62,7 @@
 
 ---
 
-## 🎧 Spotify - Recently Played
+##  Spotify - Recently Played
 
 <div align="center">
   <a href="https://open.spotify.com/user/d8yqbwmbh7pg21put2p17mnbv">

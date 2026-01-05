@@ -57,16 +57,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gueguelas&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gueguelas&layout=compact&theme=radical" height="150" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Gueguelasa&theme=radical&hide_border=false" height="150" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Gueguelas&theme=dracula&margin-w=10&margin-h=10" height="150" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gueguelas&theme=redical&area=true" height="300" />
 </div>
 

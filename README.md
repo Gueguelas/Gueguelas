@@ -5,16 +5,16 @@
 
   
 
-#### - 😎 I’m a Back-End Developer, currently studying Data Analysis in high school  
+#### - 😎 I’m a Data Engineer, currently studying Data Analysis in high school  
 #### - 🔭 I’m working at **PicPay Bank**  
 #### - 💬 Ask me about: **Gym 🦾**  
 #### - ⚡ Fun fact: **I spend all my salary on my PC 😅**  
-#### - 🌱 Learning: **AI, Power BI, Machine Learning, NoSQL, Data Science, RPA**  
-#### - 💻 I work with: **Spring Boot, Java**
+#### - 🌱 Learning: **AI, Machine Learning, Data Science**  
+#### - 💻 I work with: **Python and Spark**
 
 
 
-### 🌐 Connect with me
+### Connect with me
 
   <a href="mailto:miguel.araujo.souza.08@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" />
@@ -25,7 +25,7 @@
 </p>
 
 ---
-
+<!--- 
 ##  Skills
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 2rem;">
   
@@ -38,26 +38,28 @@
 <td align="center"><b>Tools</b></td>
 </tr>
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=java,py" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" height="40"/></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=aws,git,docker,kubernetes,linux" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="40"/></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmOZuTqPb6LhxyTyEUio8xxNxspa0gm-NncQ&s" height="40"/> </td>
-<td align="center"><img src="https://skillicons.dev/icons?i=spring,nodejs,flask" height="40"/><img src="https://cdn.simpleicons.org/pandas/150458" height="40"/> <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/800px-Scikit_learn_logo_small.svg.png" height="40"/>
-<img src="https://www.cienciaedados.com/wp-content/uploads/2023/08/pyspark.jpg" height="40"/>
+<td align="center">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/093e120245a7996016bcf01c87f8da7dc98b487f/icons/python.svg"/>
 </td>
-<td align="center"><img src="https://skillicons.dev/icons?i=postman,figma" height="40"/><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GameMakerStudio.svg" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" height="40"/></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
 </tr>
 </table>
 
-</div>
 
----
+</div>
+--->
 
 ##  GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gueguelas&theme=redical&area=true" height="300" />
+<div align="center">  
+  
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gueguelas&theme=dracula)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gueguelas&theme=dracula)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gueguelas&theme=dracula)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gueguelas&theme=dracula)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gueguelas&theme=dracula)
 </div>
 
 ---

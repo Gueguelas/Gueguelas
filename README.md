@@ -5,12 +5,10 @@
 
   
 
-#### - 😎 I’m a Data Engineer, currently studying Data Analysis in high school  
-#### - 🔭 I’m working at **PicPay Bank**  
-#### - 💬 Ask me about: **Gym 🦾**  
-#### - ⚡ Fun fact: **I spend all my salary on my PC 😅**  
-#### - 🌱 Learning: **AI, Machine Learning, Data Science**  
-#### - 💻 I work with: **Python and Spark**
+#### - I’m a Data Engineer, currently studying Data Science in high school  
+#### - I’m working at **PicPay**  
+#### - Learning: **AI, Machine Learning, Data Science**  
+#### - I work with: **Python and Spark**
 
 
 

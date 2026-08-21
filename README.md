@@ -23,32 +23,6 @@
 </p>
 
 ---
-<!--- 
-##  Skills
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 2rem;">
-  
-<table>
-<tr>
-<td align="center"><b>Back-end</b></td>
-<td align="center"><b>DevOps</b></td>
-<td align="center"><b>Databases</b></td>
-<td align="center"><b>Frameworks</b></td>
-<td align="center"><b>Tools</b></td>
-</tr>
-<tr>
-<td align="center">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/093e120245a7996016bcf01c87f8da7dc98b487f/icons/python.svg"/>
-</td>
-<td align="center"></td>
-<td align="center"></td>
-<td align="center"></td>
-<td align="center"></td>
-</tr>
-</table>
-
-
-</div>
---->
 
 ##  GitHub Stats
 <div align="center">  
@@ -62,10 +36,8 @@
 
 ---
 
-##  Spotify - Recently Played
-
 <div align="center">
   <a href="https://open.spotify.com/user/d8yqbwmbh7pg21put2p17mnbv">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=d8yqbwmbh7pg21put2p17mnbv&count=3&unique=true" alt="Spotify Recently Played" />
+    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=d8yqbwmbh7pg21put2p17mnbv&amp;theme=dracula&amp;count=4&amp;width=680&amp;radius=25&amp;time=0&amp;unique=1" alt="Spotify recently played" width="580" />
   </a>
 </div>
